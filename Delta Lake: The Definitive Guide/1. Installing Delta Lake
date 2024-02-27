@@ -1,0 +1,40 @@
+# 1. Installing Delta Lake
+
+## Native Delta Lake Libraries
+### Installation
+```
+pip install deltalake
+```
+
+## Apache Spark with Delta Lake
+### Setting up Delta Lake with Apache Spark
+### Set up an interactive shell
+```
+pip install pyspark==<compatible-spark-version>
+
+pyspark --packages io.delta:delta-core_2.12:2.3.0 
+    --conf "spark.sql.extensions=io.delta.sql.DeltaSparkSessionExtension" 
+    --conf "spark.sql.catalog.spark_catalog=org.apache.spark.sql.delta.catalog.DeltaCatalog"
+```
+
+## PySpark Declarative API
+```
+pip install delta-spark
+```
+С этим пакетом конфигурация `SparkSession` может выглядеть так:
+```
+from delta import *
+builder = (
+ pyspark.sql.SparkSession.builder.appName("MyApp")
+    .config("spark.sql.extensions", "io.delta.sql.DeltaSparkSessionExtension")
+    .config("spark.sql.catalog.spark_catalog", "org.apache.spark.sql.delta.catalog.DeltaCatalog")
+)
+```
+
+_Мне этот способ вряд ли подойдёт. Проще засунуть всё в параметр `conf` при создании Livy-сессии._
+
+_Первый раз вижу такой способ оформления method-chain. Многим удобнее "\" в конце каждой строки._
+
+## Summary
+
+_Ставится вроде без лишних сложностей, просто один пакет и пара конфигураций сессии. Попробую добавить в Zeppelin-интерпритатор, с Livy вообще проблем быть не должно._
