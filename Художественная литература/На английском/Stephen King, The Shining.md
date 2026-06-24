@@ -31,3 +31,83 @@ _**readind time:** ~30 min_
 **reverie**: (nount) a state of having pleasant dream-like thoughts
 > ... passed their hands over their brows as if in confused **reverie** or meditation
 
+# 1. Job Interview
+
+### Notes while reading
+
+**started at:** 02:41
+
+Джек подумал: заносчивый мелкий хер
+
+Ульман ростом 5 футов 5 дюймов (~160). Ходит с ?замороченной? скоростью низкого пухлеша. Одет в черный строгий, но комфортный костюм. 
+Покупателям костюм говорит - "это человек, которому можно доверить проблемы", работягам - "надеюсь будет что-то путнее"
+Красная гвоздика в лацкане не давала спутать его с местным гробовщиком
+
+Выслушав его, Джек подметил, что в этих обстоятельствах ему никто не понравился бы по эту сторону стола
+
+**im here at:** 03:02 (21 min, part with Ullman's description is very hard for me)
+
+Какой-то странный диалог, в котором Джек сказал что его жена Венди - необычайная, и сын тоже - очень самостоятельный для пятилетки.
+
+Кажется, речь о собеседовании Джека на работу. Тут они начали обсуждать план здания. Видимо отеля Overlook. Ульман упомянул, что с WWII он несколько раз менял владельцев, каждый сваливал весь лишний хлам на чердак, и что горничные жаловались на звуки писка ... . Что он хочет расставить ловушку и отраву. Джек крысолов что ли?
+
+В отеле 110 номеров
+
+Джека подзаебали "продающие" речи Ульмана. Про потрясающие виды номеров на третьем этаже
+
+Стало понятно, что Джек претендует на должность зимнего смотрителя
+
+Джек описан как маленький лысый. В банкирском костюме. Галстук серый. Тоже с цветком в одном лацкане, сбалансированном золотым значком staff на другом
+
+Ульман заговорил откровенно: его хозяин, Альберт Шокли, заинтересованный в отеле, но не разбирающийся в этом деле, настаивает на найме Джека. И он возьмет его на работу. Но если бы решал Ульман - он не стал бы
+
+Ульман заговорил словами из мыслей Джека. "Не думаю что вам есть до меня дело ... я маленький заносчивый хер ... Каждый сезон с 15 мая по 30 сентября отель нанимает 110 работяг, по одному на номер ... Думаю многие о мне такого мнения ... Я должен быть таким чтобы рулить этим отелем как положено ...
+
+Раньше здесь останавливались очень важные люди. Даже несколько презедентов
+
+После Второй Мировой отель выкупил Horace Derwent. Миллионер-изобретатель, пилот, режисер и предприниматель. Все его вложения были удачными, но не отель Overlook. Он вложил больше миллиона долларов до первого посетителя
+
+Вложив три миллиона, Дервент перепродал отель группе Калифорнийский инвесторов. У них тоже не задалось
+
+В 1970 отель выкупил мр. Шокли и поручил управление Ульману. Они тоже проработали несколько лет в убыток, но в этом году, впервые за 70 лет, вышли в плюс
+
+Дальше Ульман стал обьяснять, почему считает Джека неподходящим для этой работы. Рассказал, что зимой отель по сути полностью отсечен от цивилизации. И в случае резкой необходимости - быстро добраться до города никак не получится. Подвёл с "изоляционной хандре"
+
+Предыдущий смотритель зарубил своих дочерей, застрелил жену, и роскомнадзорнулся. Джек возразил, что это обьясняется необразованностью: когда перестало ловить радио и телек, неуч от нечего делать стал заливаться алкашкой, бить жену и детей. 
+Он же с женой любят читать. Джек работает над пьесой. У детей есть пазлы и раскраски. К тому же их надо учить читать и кататься на лыжах. Короче и без телека будет чем заняться. Пить он давно бросил, и с собой алкоголь не возьмёт.
+
+В конце Ульман сказал "ничего личного", на что Джек убубнулся и согласился. Но про себя порадовался, что У не протянул руку - личного было много
+
+**finished at:** 04:00 (1 hour 19 mins)
+
+### Summary
+
+Jack applies as winter caretaker to The Overlook hotel. Ulman rather have an unattached college boy: previous family guy murdered all his famility because of "cabin fever".
+Jack gets the job because Ulman's boss insisted on it. 
+
+### New words
+
+**prissy** (adjective): caring too much about behaving and dressing in a way that is considered correct and that does not shock
+> ... when he moved, it was with the **prissy** speed that seems ...
+
+**carnation** (noun): flower (гвоздика)
+> There was a red **carnation** in the lapel
+
+**lapel** (noun): a strip of cloth that is part of the front of a jacket or coat. It is joined to the collar and folded back onto the chest (лацкан)
+> There was a red carnation in the **lapel**
+
+**undertaker** (noun): a person whose job is to prepare dead bodies that are going to be buried or cremated (= burned) and to organize funerals
+
+**caretaker** (noun): a person employed to take care of a large building
+> ...
+
+**mundane** (adjective): very ordinary and therefore not interesting:
+> ...
+
+**prone** (adjective): likely to show a particular characteristic, usually a negative one, or to be affected by something bad, such as damage or an illness
+> A stupid man is more **prone** to cabin fever just as he's more **prone** to shoot someone over a card game or commit a spur-ofthe-moment robbery
+
+### New phrazes 
+
+**X stood Y-Z**: X height is Y foot and Z inch
+> Ullman stood five-five
