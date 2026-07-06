@@ -1,0 +1,48 @@
+`total time: 50 + 21 = 71 mins`
+
+### Notes while reading
+
+**started at:** 04:12
+
+Danny wakes up at 16:15. Wendy suggests him to watch Seasame Street, but he went to _his place_ on the curb.
+He had not a watch and aware of time only by light. He played with glider and song like "... m Lou ... m Lou ...". Song which sang at Jack & Jill Nursery School.
+Now his dad can't afford Nursery School for him.
+
+Danny ~~thought~~ know that Wendy worried if dad had breakdown in mountains or do a **Bad Thing**. _Bad thing is home violence. For example, Danny's friend's dad beaten his wife and got a dicorce_. Then Danny thought about concept of **divorce**. He had been in constant terror of parents possible divorce.
+
+_Is Bad Thin also a alchocolism?_
+
+Danyy fainted after he concentated on divorce thoughts
+
+_First mention of Tonny, Danny's 'invisible playmate', which dad calls "Ha Loo Sin Nation" (hallucination)_
+
+More than divorce, Danny ofraid of **suicide** word (which he read from dad's thoughts?)
+
+... the "play lost under the stairs" episode ...
+
+... Jack's thoughts about shingles ...
+
+_So. Is Danny a medium or schizo or just normal kid with good imagination?_
+
+... A vision of some chase in the Ovelook Hotel, word **REDRUM** appears (murder) ...
+
+Danny wake up all in sweat. Dad come home. Danny seen that his parents in love and there is no "bad thins"
+
+**finished at:** 05:02 (50 mins)
+
+### Summary
+
+**started at:** 05:02
+
+At the start of the chapter, Danny went to the curb. There he saw scare images in his parents' heads: divorce, suicide, redrum (murder).
+After that, we find out about Danny's 'invisible friend' Tonny, who helps him to see _hidden things_. For example, Tonny helped him find the lost play under the stairs, where he had never been, and showed him the chasing scene from the Overlook Hotel.
+Finally, Danny woke up all in sweat and his father came home. Danny saw that his parrents loved each other — there were no more BAD THINGS in their heads.
+
+**finished at:** 05:23 (21 mins)
+
+
+## Understanding check
+deepseek: OK
+
+### New words
+No new words. I had list and learn all C1+ words with deepseek before reading
